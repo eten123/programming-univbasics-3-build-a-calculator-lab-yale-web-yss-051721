@@ -10,8 +10,8 @@ def subtraction(num1, num2)
 end
 subtraction(3,4)
 
-def division(num1, num2)
-  quotient = num1/num2
+def division(num3, num4)
+  quotient = num3 / num4
   p quotient
 end
 divison(16,4)
