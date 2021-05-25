@@ -5,8 +5,10 @@ end
 addition(3,4)
 
 def subtraction(num1, num2)
-
+  difference = num1 - num2
+  p difference
 end
+subtraction(3,4)
 
 def division(num1, num2)
 
