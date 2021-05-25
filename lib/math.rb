@@ -14,7 +14,7 @@ def division(num3, num4)
   quotient = num3 / num4
   p quotient
 end
-divison(16,4)
+division(16,4)
 
 def multiplication(num1, num2)
 
