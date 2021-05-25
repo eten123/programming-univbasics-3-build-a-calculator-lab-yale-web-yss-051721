@@ -11,10 +11,11 @@ end
 subtraction(3,4)
 
 def division(num1, num2)
-  quotient = num1 / num2
+  quotient = num1/num2
   p quotient
 end
 divison(16,4)
+
 def multiplication(num1, num2)
 
 end
