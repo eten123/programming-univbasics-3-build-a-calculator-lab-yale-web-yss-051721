@@ -32,4 +32,4 @@ def square_root(num)
   square_rooted = sqrt(num)
   p square_rooted
 end
-square_root
+square_root(25)
