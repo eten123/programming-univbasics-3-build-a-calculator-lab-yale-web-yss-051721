@@ -20,7 +20,7 @@ def multiplication(num3, num4)
   product = num3 * num4
   p product
 end
-product(16,4)
+multiplication(16,4)
 
 def modulo(num1, num2)
 
