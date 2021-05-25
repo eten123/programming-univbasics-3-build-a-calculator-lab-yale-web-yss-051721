@@ -29,7 +29,7 @@ end
 modulo(16, 4)
 
 def square_root(num)
-  square_rooted = sqrt(num)
+  square_rooted = Math.sqrt(num)
   p square_rooted
 end
 square_root(25)
