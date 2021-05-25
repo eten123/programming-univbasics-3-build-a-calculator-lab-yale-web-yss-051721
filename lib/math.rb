@@ -23,8 +23,10 @@ end
 multiplication(16,4)
 
 def modulo(num1, num2)
-m
+remainder = num1 % num2
+p remainder
 end
+modulo(16, 4)
 
 def square_root(num)
 
