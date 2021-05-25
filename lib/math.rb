@@ -16,9 +16,11 @@ def division(num3, num4)
 end
 division(16,4)
 
-def multiplication(num1, num2)
-
+def multiplication(num3, num4)
+  product = num3 * num4
+  p product
 end
+product(16,4)
 
 def modulo(num1, num2)
 
